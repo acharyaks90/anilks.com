@@ -27,11 +27,11 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            But my services go beyond just custom development - I'm also proficient in providing Software Architecture Solutioon, making it easy for my clients to take control of their own application(Mobile and web) and keep them up to date.</p>
+            But my services go beyond just custom development - I'm also proficient in providing Software Architecture Solution, making it easy for my clients to take control of their own application(Mobile and web) and keep them up to date.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-            So if you're in need of a new application  or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website dreams to reality together!</p>
+            So if you're in need of a new Application/ Developer /Hiring  or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website dreams to reality together!</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>

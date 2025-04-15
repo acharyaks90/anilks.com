@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.4a780832.js",
+    "main.js": "/static/js/main.df8d6f52.js",
     "static/media/Resume_Anil_Kumar.pdf": "/static/media/Resume_Anil_Kumar.47aaf8947adda55105c1.pdf",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/anilkumar.jpg": "/static/media/anilkumar.91105b9ef6ad96cafc14.jpg",
@@ -14,23 +14,23 @@
     "static/media/bootstrap-icon.svg": "/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
     "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "static/media/telegram.svg": "/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
-    "static/media/instagram.svg": "/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
     "static/media/phone-icon.svg": "/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
     "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
     "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
     "static/media/external-link.svg": "/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/medium.svg": "/static/media/medium.ce3cf5f2df487d2ba71f1a66498c8267.svg",
+    "index.html": "/index.html",
     "static/media/ng.svg": "/static/media/ng.c690b8c9738b3060b2a3333ddc725e40.svg",
     "static/media/html-icon.svg": "/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
     "static/media/css-icon.svg": "/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
-    "index.html": "/index.html",
     "static/media/ng-material-logo.svg": "/static/media/ng-material-logo.3c3fa50e6e1dbcfc0510fa11a131d016.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.4a780832.js.map": "/static/js/main.4a780832.js.map"
+    "main.df8d6f52.js.map": "/static/js/main.df8d6f52.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.4a780832.js"
+    "static/js/main.df8d6f52.js"
   ]
 }
