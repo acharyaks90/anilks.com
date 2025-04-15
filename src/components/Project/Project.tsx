@@ -24,6 +24,34 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
               </div>
             </header>
             <div className="body">
+              <h3>Software Testing Environment Booking Portal </h3>
+              <p>
+             A Web Application for Booking and Scheduling of Software Testing Environments SIT UAT NFT.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>OPENSHIFT</li>
+                <li>JAVA SPRING BOOT</li>
+                <li>ANGULAR</li>
+                <li>PLSQL</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+      <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
+              <div className="project-links">
+                <a href="" target="_blank" rel="noreferrer">
+                  <img src={githubIcon} alt="Visit site" /> </a>
+                <a href="
+www.camsuinfotech.com" target="_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" /></a>
+              </div>
+            </header>
+            <div className="body">
               <h3>BFS - BSA ABSA Core Banking </h3>
               <p>
               Complete Branch System for Banking Sector.
@@ -38,6 +66,33 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             </footer>
           </div>
         </ScrollAnimation>
+      <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
+              <div className="project-links">
+                <a href="" target="_blank" rel="noreferrer">
+                  <img src={githubIcon} alt="Visit site" /> </a>
+                <a href="" target="_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" /></a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>ABSA South Africa Bank | Retail Customer Facing Banking App </h3>
+              <p>
+              Retail Customer Facing Banking App
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>TECH LEAD</li>
+                <li>ANGULAR</li>
+                <li>MATERIAL</li>
+                <li>PERFORMANCE OPTIMISSATION</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
 
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
@@ -46,22 +101,22 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
               <div className="project-links">
                 <a href="" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="
-www.camsuinfotech.com" target="_blank" rel="noreferrer">
+                <a href="" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>camsuinfotech </h3>
+              <h3> Wealth Management app  </h3>
               <p>
-              A website Based on Technical Support Assistance. KPO in HTML 5, CSS3 , JQUERY , Mail Function, Captcha Creation , Newsletter Integration.
+              A website for Wealth Management in Banking Sector for CNB Bank USA (RBC).
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Github</li>
-                <li>AngularJS</li>
-                <li>HTML</li>
+                <li>D3</li>
+                <li>SVG</li>
+                <li>Angular</li>
+                <li>HTML5</li>
               </ul>
             </footer>
           </div>
@@ -78,24 +133,56 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
                 <a href="" target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="www.swasthyacapsule.com" target="\_blank" rel="noreferrer">
+                <a href="" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>swasthyacapsule</h3>
+              <h3>Scheduler App</h3>
               <p>
-              A Health Medical Suggestion and Doctors MicroBlogging Website 
+              A Web Application for Scheduling and Tracking client meetings and appointments.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Wordpress</li>
-                <li>PHP</li>
+                <li>HTML5</li>
+                <li>SCSS</li>
+                <li>Angular</li>
+                <li>PWA</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+                <title>Folder</title>
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+              </svg>
+              <div className="project-links">
+                <a href="" target="\_blank" rel="noreferrer">
+                  <img src={githubIcon} alt="Visit site" />
+                </a>
+                <a href="" target="\_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>Builder 360 </h3>
+              <p>
+              A Web Application App for Project Managers and Builders to manage their projects and clients.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+             
+                <li>Angular</li>
+                <li>ROR</li>
                 <li>MYSQL</li>
+                <li>Google SLIDE API</li>
               </ul>
             </footer>
           </div>
@@ -109,23 +196,50 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
                 <a href="" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="
-www.sminfra.in" target="_blank" rel="noreferrer">
+                <a href="" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Sminfra</h3>
-              <p>A Real Estate Construction based Website
+              <h3>NSF Food Audit App </h3>
+              <p>A Web Application for Audit and Inspection of all Food and Safety
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>PHP</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>MySQL</li>
+                <li>Kendo UI</li>
+                <li>Angular</li>
+                <li>JS</li>
+                <li>SCSS</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <div className="project-links">
+                <a href="" target="_blank" rel="noreferrer">
+                  <img src={githubIcon} alt="Visit site" />
+                </a>
+                <a href="" target="_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>NSF iAudit App </h3>
+              <p>A Mobile Application for Audit and Inspection of all Food and Safety
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>NativeScript</li>
+                <li>Angular</li>
+                <li>TS</li>
+                <li>SCSS</li>
               </ul>
             </footer>
           </div>
@@ -142,21 +256,22 @@ www.sminfra.in" target="_blank" rel="noreferrer">
                 <a href="" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://vrdentaldesign.com/" target="_blank" rel="noreferrer">
+                <a href="" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Vrdentaldesign</h3>
-              <p>Developed a web application for Digital Dentistry, from Doctor to Lab and Design and back to Lab </p>
+              <h3>Education app </h3>
+              <p>Developed a web application for School for Uttar Pradesh Government </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Full-Stack Development</li>
-                <li>RubyOnRails</li>
-                <li>Postgres</li>
+             
+                <li>CSS</li>
+                <li>CHARTS</li>
                 <li>Angular</li>
+                <li>JavaScript</li>
               </ul>
             </footer>
           </div>
@@ -194,7 +309,7 @@ www.sminfra.in" target="_blank" rel="noreferrer">
               </div>
             </header>
             <div className="body">
-              <h3>Indian Judiciary Case management System</h3>
+              <h3>Indian Judiciary Case Management System</h3>
               <p>
               Technical Support Assistance and Maintenance for A Internal portal for Indian Judiciary Case management System daily basis case processing.
               </p>
