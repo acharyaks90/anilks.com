@@ -20,7 +20,7 @@ export function Hero() {
           <h1>Anil Kumar</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Angular UI Architect</h3>
+          <h3>Front End Lead | Solution Architect</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">11+ Years of Experience</p>

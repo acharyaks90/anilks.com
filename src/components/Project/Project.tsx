@@ -18,8 +18,7 @@ export function Project() {
               <div className="project-links">
                 <a href="" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="
-www.camsuinfotech.com" target="_blank" rel="noreferrer">
+                <a href="" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
@@ -31,10 +30,10 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             </div>
             <footer>
               <ul className="tech-list">
-                <li>OPENSHIFT</li>
-                <li>JAVA SPRING BOOT</li>
-                <li>ANGULAR</li>
-                <li>PLSQL</li>
+                <li>Architect</li>
+                <li>SPRING BOOT</li>
+                <li>ReactJS</li>
+                <li>Clouds-CI/CD</li>
               </ul>
             </footer>
           </div>
@@ -59,9 +58,10 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             </div>
             <footer>
               <ul className="tech-list">
-                <li>JHIPSTER</li>
+                <li>Architect</li>
                 <li>ANGULAR</li>
-                <li>MATERIAL</li>
+                <li>Lead</li>
+                <li>Microservice</li> 
               </ul>
             </footer>
           </div>
@@ -85,10 +85,9 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             </div>
             <footer>
               <ul className="tech-list">
-                <li>TECH LEAD</li>
+                <li>Lead</li>
                 <li>ANGULAR</li>
                 <li>MATERIAL</li>
-                <li>PERFORMANCE OPTIMISSATION</li>
               </ul>
             </footer>
           </div>
@@ -202,7 +201,7 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
               </div>
             </header>
             <div className="body">
-              <h3>NSF Food Audit App </h3>
+              <h3>NSF Online </h3>
               <p>A Web Application for Audit and Inspection of all Food and Safety
               </p>
             </div>
@@ -263,7 +262,7 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             </header>
             <div className="body">
               <h3>Education app </h3>
-              <p>Developed a web application for School for Uttar Pradesh Government </p>
+              <p>Developed a web application for School for U.P. Government </p>
             </div>
             <footer>
               <ul className="tech-list">
@@ -292,10 +291,9 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             <div className="body">
               <h3>
               NCTE : National Council For Teacher Education</h3>
-              <p> Associated with Data Integration (DXC)
-              , A Govt Project Of All India Institution </p>
+              <p> A portal for Institution Recognition and Certification  </p>
             </div>
-            <footer> <ul className="tech-list"> <li>Angular</li> <li>HTML</li> <li>CSS</li> </ul> </footer>
+            <footer> <ul className="tech-list"> <li>Angular</li> <li>HTML5</li> <li>CSS</li> </ul> </footer>
           </div>
         </ScrollAnimation>
         <ScrollAnimation animateIn="flipInX">
@@ -316,11 +314,11 @@ www.camsuinfotech.com" target="_blank" rel="noreferrer">
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Linux-Ubuntu</li>
+                <li>Linux</li>
                 <li>PHP</li>
                 <li>MYSQL</li>
-                <li>Apache</li>
-                <li>PHPMADMIN</li>
+                <li>JAVASCRIPT</li>
+                <li>HTML5</li>
               </ul>
             </footer>
           </div>
