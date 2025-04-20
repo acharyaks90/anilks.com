@@ -10,6 +10,7 @@ import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import ngIcon from "../../assets/ng.svg";
 import rxJsIcon from "../../assets/rxlogo.png";
+import gitCopilot from "../../assets/githubCopilot.png";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -85,6 +86,11 @@ export function About() {
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.19 * 1000}>
               <img src={rxJsIcon} alt="RxJS" />
+            </ScrollAnimation>
+          </div>
+          <div className="hability">
+            <ScrollAnimation animateIn="fadeInUp" delay={0.19 * 1000}>
+              <img src={gitCopilot} alt="githubcopilot" />
             </ScrollAnimation>
           </div>
       
